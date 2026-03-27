@@ -1,0 +1,601 @@
+name,domain,position,skills,company,years_experience
+Rahul Sharma,marketing,Social Media Manager,"SEO, Content Marketing, Google Analytics",Meta,2
+Rohit Kumar,finance,Investment Analyst,"Financial Modeling, Excel, Risk Analysis",Meta,4
+Anjali Gupta,hr,HR Manager,"HR Policies, Employee Relations, Talent Management",Accenture,10
+Rahul Sharma,software,Backend Engineer,"Django, Python, Flask",Meta,2
+Vikas Mehta,hr,Talent Acquisition Specialist,"Talent Management, Recruitment, HR Policies",Infosys,2
+Anjali Gupta,finance,Risk Analyst,"Budget Forecasting, Excel, Financial Modeling",Microsoft,6
+Anjali Gupta,software,Full Stack Developer,"Python, SQL, Django",TCS,7
+Sneha Patel,software,Python Developer,"REST APIs, TensorFlow, SQL",Google,9
+Vikas Mehta,marketing,SEO Analyst,"SEO, Email Marketing, Google Analytics",Google,2
+Neha Kapoor,hr,HR Generalist,"Employee Relations, Talent Management, Recruitment",Infosys,4
+Rahul Sharma,software,Backend Engineer,"SQL, Flask, Django",Amazon,8
+Priya Singh,software,Full Stack Developer,"TensorFlow, Machine Learning, SQL",TCS,10
+Vikas Mehta,software,Data Scientist,"Machine Learning, Django, SQL",Infosys,9
+Amit Verma,hr,HR Manager,"HR Policies, Recruitment, Employee Relations",TCS,1
+Amit Verma,software,Data Scientist,"SQL, Machine Learning, Python",Google,7
+Sneha Patel,finance,Risk Analyst,"Financial Modeling, Excel, Budget Forecasting",TCS,2
+Sneha Patel,hr,HR Generalist,"Recruitment, HR Policies, Talent Management",TCS,2
+Anjali Gupta,finance,Investment Analyst,"Budget Forecasting, Risk Analysis, Financial Modeling",Meta,1
+Vikas Mehta,marketing,Digital Marketing Specialist,"Social Media Marketing, Google Analytics, Content Marketing",Infosys,9
+Vikas Mehta,marketing,Social Media Manager,"Google Analytics, Email Marketing, Content Marketing",Google,10
+Neha Kapoor,finance,Investment Analyst,"Risk Analysis, Budget Forecasting, Investment Analysis",IBM,3
+Vikas Mehta,finance,Accountant,"Budget Forecasting, Risk Analysis, Investment Analysis",Google,1
+Priya Singh,hr,Talent Acquisition Specialist,"HR Policies, Employee Relations, Talent Management",Infosys,3
+Amit Verma,hr,HR Generalist,"Recruitment, Employee Relations, Talent Management",Meta,7
+Sneha Patel,software,Python Developer,"Python, Docker, Django",Amazon,1
+Rahul Sharma,software,Data Scientist,"SQL, TensorFlow, Flask",Meta,4
+Rohit Kumar,marketing,SEO Analyst,"Email Marketing, Google Analytics, Social Media Marketing",TCS,10
+Anjali Gupta,marketing,SEO Analyst,"Email Marketing, Social Media Marketing, Google Analytics",Amazon,2
+Neha Kapoor,hr,HR Generalist,"Employee Relations, HR Policies, Talent Management",Google,6
+Anjali Gupta,hr,HR Manager,"Recruitment, HR Policies, Talent Management",IBM,3
+Neha Kapoor,hr,Talent Acquisition Specialist,"Talent Management, Employee Relations, HR Policies",Infosys,2
+Rohit Kumar,software,Data Scientist,"Git, Django, Machine Learning",Infosys,9
+Anjali Gupta,marketing,Digital Marketing Specialist,"Social Media Marketing, Email Marketing, Google Analytics",Google,8
+Rohit Kumar,hr,HR Generalist,"Recruitment, Talent Management, Employee Relations",Meta,6
+Rohit Kumar,finance,Financial Analyst,"Investment Analysis, Risk Analysis, Excel",Amazon,5
+Vikas Mehta,software,Full Stack Developer,"TensorFlow, SQL, Git",Meta,2
+Sneha Patel,finance,Accountant,"Risk Analysis, Budget Forecasting, Investment Analysis",Infosys,5
+Amit Verma,hr,HR Manager,"Employee Relations, Talent Management, Recruitment",Infosys,3
+Amit Verma,hr,HR Generalist,"Employee Relations, Recruitment, HR Policies",Meta,2
+Amit Verma,hr,HR Manager,"Recruitment, HR Policies, Employee Relations",TCS,10
+Priya Singh,marketing,Social Media Manager,"SEO, Google Analytics, Email Marketing",Microsoft,1
+Anjali Gupta,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Recruitment",Infosys,9
+Anjali Gupta,finance,Risk Analyst,"Financial Modeling, Excel, Risk Analysis",Microsoft,9
+Sneha Patel,hr,HR Manager,"Employee Relations, HR Policies, Talent Management",IBM,9
+Anjali Gupta,finance,Financial Analyst,"Investment Analysis, Budget Forecasting, Excel",Microsoft,8
+Neha Kapoor,hr,HR Manager,"Recruitment, HR Policies, Talent Management",Amazon,7
+Neha Kapoor,finance,Investment Analyst,"Risk Analysis, Financial Modeling, Excel",TCS,2
+Neha Kapoor,marketing,Digital Marketing Specialist,"Email Marketing, Content Marketing, Social Media Marketing",Meta,10
+Priya Singh,marketing,Digital Marketing Specialist,"Google Analytics, SEO, Email Marketing",Google,10
+Priya Singh,marketing,Digital Marketing Specialist,"Google Analytics, Social Media Marketing, SEO",Google,1
+Amit Verma,software,Backend Engineer,"SQL, Flask, Machine Learning",Microsoft,2
+Rahul Sharma,finance,Risk Analyst,"Financial Modeling, Excel, Budget Forecasting",Microsoft,7
+Amit Verma,hr,HR Generalist,"Recruitment, HR Policies, Employee Relations",TCS,6
+Amit Verma,marketing,SEO Analyst,"Google Analytics, Email Marketing, Content Marketing",Infosys,6
+Anjali Gupta,finance,Accountant,"Excel, Investment Analysis, Risk Analysis",TCS,5
+Rohit Kumar,software,Python Developer,"Python, Flask, REST APIs",Infosys,4
+Vikas Mehta,marketing,Social Media Manager,"SEO, Email Marketing, Google Analytics",Microsoft,6
+Sneha Patel,finance,Accountant,"Risk Analysis, Investment Analysis, Excel",Microsoft,5
+Rohit Kumar,marketing,Content Strategist,"Email Marketing, Social Media Marketing, SEO",IBM,2
+Amit Verma,hr,Talent Acquisition Specialist,"Recruitment, HR Policies, Talent Management",Infosys,2
+Rahul Sharma,marketing,Digital Marketing Specialist,"Google Analytics, Content Marketing, SEO",Google,3
+Vikas Mehta,marketing,Social Media Manager,"SEO, Social Media Marketing, Email Marketing",IBM,1
+Sneha Patel,hr,HR Generalist,"Talent Management, HR Policies, Employee Relations",TCS,4
+Amit Verma,marketing,Content Strategist,"Google Analytics, Content Marketing, Social Media Marketing",Amazon,1
+Amit Verma,hr,HR Generalist,"HR Policies, Recruitment, Employee Relations",Microsoft,3
+Rahul Sharma,finance,Financial Analyst,"Investment Analysis, Budget Forecasting, Financial Modeling",TCS,3
+Vikas Mehta,hr,HR Generalist,"Recruitment, Talent Management, HR Policies",IBM,2
+Amit Verma,hr,HR Manager,"Recruitment, Talent Management, HR Policies",Accenture,1
+Anjali Gupta,software,Data Scientist,"Python, Machine Learning, Docker",Accenture,6
+Rohit Kumar,hr,Talent Acquisition Specialist,"HR Policies, Talent Management, Employee Relations",TCS,3
+Rahul Sharma,software,Backend Engineer,"SQL, Python, Docker",IBM,6
+Vikas Mehta,finance,Financial Analyst,"Investment Analysis, Excel, Risk Analysis",IBM,4
+Neha Kapoor,marketing,Content Strategist,"Email Marketing, SEO, Content Marketing",Amazon,2
+Sneha Patel,software,Full Stack Developer,"Machine Learning, Git, REST APIs",TCS,2
+Anjali Gupta,hr,HR Generalist,"Recruitment, HR Policies, Talent Management",Meta,5
+Rahul Sharma,software,Machine Learning Engineer,"TensorFlow, REST APIs, Flask",Meta,8
+Vikas Mehta,finance,Risk Analyst,"Budget Forecasting, Risk Analysis, Excel",Google,4
+Rahul Sharma,software,Data Scientist,"Docker, SQL, Git",Infosys,9
+Neha Kapoor,finance,Investment Analyst,"Excel, Budget Forecasting, Investment Analysis",Amazon,6
+Anjali Gupta,hr,HR Manager,"Employee Relations, Recruitment, HR Policies",Accenture,3
+Rohit Kumar,hr,HR Manager,"Recruitment, HR Policies, Talent Management",Accenture,9
+Priya Singh,software,Machine Learning Engineer,"SQL, Python, Docker",Amazon,1
+Neha Kapoor,software,Machine Learning Engineer,"Docker, Django, SQL",Meta,8
+Rohit Kumar,software,Data Scientist,"Docker, Machine Learning, Django",Amazon,2
+Rahul Sharma,hr,Talent Acquisition Specialist,"Talent Management, HR Policies, Recruitment",Infosys,1
+Sneha Patel,software,Python Developer,"TensorFlow, Git, SQL",IBM,9
+Priya Singh,software,Python Developer,"Docker, SQL, TensorFlow",Microsoft,3
+Rahul Sharma,hr,HR Generalist,"Recruitment, Talent Management, HR Policies",IBM,6
+Priya Singh,finance,Investment Analyst,"Risk Analysis, Budget Forecasting, Financial Modeling",Google,4
+Vikas Mehta,finance,Accountant,"Excel, Financial Modeling, Investment Analysis",Meta,10
+Vikas Mehta,hr,HR Generalist,"HR Policies, Talent Management, Recruitment",Google,5
+Priya Singh,finance,Financial Analyst,"Investment Analysis, Excel, Budget Forecasting",TCS,4
+Rohit Kumar,marketing,Digital Marketing Specialist,"Social Media Marketing, SEO, Google Analytics",Meta,2
+Sneha Patel,hr,Talent Acquisition Specialist,"HR Policies, Talent Management, Employee Relations",Amazon,4
+Rahul Sharma,software,Data Scientist,"Git, Django, Flask",IBM,2
+Rohit Kumar,finance,Risk Analyst,"Financial Modeling, Risk Analysis, Excel",Meta,7
+Anjali Gupta,finance,Accountant,"Budget Forecasting, Risk Analysis, Excel",Microsoft,3
+Anjali Gupta,hr,HR Manager,"Recruitment, HR Policies, Talent Management",TCS,5
+Amit Verma,finance,Accountant,"Investment Analysis, Excel, Financial Modeling",Amazon,3
+Priya Singh,hr,HR Generalist,"HR Policies, Recruitment, Employee Relations",Meta,1
+Amit Verma,software,Python Developer,"Docker, Git, Machine Learning",Infosys,7
+Sneha Patel,software,Machine Learning Engineer,"Python, Git, Django",Microsoft,1
+Rohit Kumar,software,Backend Engineer,"Machine Learning, Docker, SQL",Accenture,10
+Anjali Gupta,finance,Financial Analyst,"Financial Modeling, Budget Forecasting, Risk Analysis",Accenture,3
+Rohit Kumar,software,Data Scientist,"Machine Learning, SQL, Python",Microsoft,4
+Rohit Kumar,software,Full Stack Developer,"Machine Learning, TensorFlow, Python",Microsoft,3
+Priya Singh,marketing,SEO Analyst,"Social Media Marketing, SEO, Content Marketing",Infosys,9
+Rohit Kumar,software,Backend Engineer,"REST APIs, Docker, Django",IBM,4
+Rahul Sharma,finance,Risk Analyst,"Risk Analysis, Financial Modeling, Excel",TCS,3
+Rohit Kumar,finance,Investment Analyst,"Excel, Risk Analysis, Investment Analysis",Meta,7
+Vikas Mehta,finance,Investment Analyst,"Risk Analysis, Financial Modeling, Budget Forecasting",Meta,5
+Amit Verma,marketing,SEO Analyst,"SEO, Social Media Marketing, Google Analytics",Google,2
+Rahul Sharma,software,Full Stack Developer,"Machine Learning, Django, Git",Meta,4
+Sneha Patel,software,Python Developer,"SQL, REST APIs, Flask",Amazon,6
+Neha Kapoor,finance,Financial Analyst,"Investment Analysis, Risk Analysis, Financial Modeling",Google,6
+Amit Verma,finance,Investment Analyst,"Budget Forecasting, Risk Analysis, Excel",Amazon,5
+Rahul Sharma,software,Full Stack Developer,"Docker, SQL, Git",Microsoft,1
+Rohit Kumar,software,Python Developer,"Git, Machine Learning, TensorFlow",IBM,1
+Anjali Gupta,software,Full Stack Developer,"REST APIs, Django, Git",Google,9
+Priya Singh,marketing,Digital Marketing Specialist,"Google Analytics, Content Marketing, SEO",Google,8
+Priya Singh,finance,Accountant,"Financial Modeling, Investment Analysis, Excel",TCS,7
+Sneha Patel,marketing,SEO Analyst,"SEO, Email Marketing, Social Media Marketing",Microsoft,7
+Neha Kapoor,hr,HR Manager,"HR Policies, Employee Relations, Talent Management",Google,5
+Sneha Patel,software,Data Scientist,"TensorFlow, SQL, Flask",Google,6
+Amit Verma,finance,Accountant,"Financial Modeling, Excel, Investment Analysis",IBM,7
+Vikas Mehta,marketing,SEO Analyst,"SEO, Email Marketing, Social Media Marketing",TCS,2
+Rohit Kumar,marketing,Social Media Manager,"Content Marketing, SEO, Email Marketing",IBM,3
+Priya Singh,finance,Risk Analyst,"Financial Modeling, Budget Forecasting, Investment Analysis",TCS,9
+Neha Kapoor,software,Data Scientist,"SQL, Django, Docker",Accenture,7
+Sneha Patel,finance,Investment Analyst,"Risk Analysis, Excel, Budget Forecasting",Amazon,3
+Neha Kapoor,finance,Accountant,"Budget Forecasting, Excel, Risk Analysis",Microsoft,5
+Neha Kapoor,hr,Talent Acquisition Specialist,"Recruitment, Talent Management, HR Policies",Google,8
+Priya Singh,marketing,Social Media Manager,"SEO, Content Marketing, Google Analytics",IBM,3
+Rahul Sharma,software,Backend Engineer,"Docker, REST APIs, TensorFlow",IBM,1
+Amit Verma,software,Python Developer,"Git, TensorFlow, Docker",Meta,6
+Amit Verma,software,Full Stack Developer,"Docker, Python, Django",TCS,3
+Rahul Sharma,marketing,Content Strategist,"SEO, Email Marketing, Content Marketing",Accenture,8
+Rohit Kumar,hr,Talent Acquisition Specialist,"Talent Management, Employee Relations, HR Policies",Google,6
+Neha Kapoor,hr,HR Generalist,"HR Policies, Employee Relations, Talent Management",TCS,9
+Neha Kapoor,hr,HR Generalist,"Talent Management, HR Policies, Recruitment",Accenture,6
+Amit Verma,software,Full Stack Developer,"SQL, TensorFlow, Django",Microsoft,4
+Neha Kapoor,software,Full Stack Developer,"Flask, REST APIs, Django",Meta,5
+Rahul Sharma,hr,HR Generalist,"Talent Management, HR Policies, Employee Relations",Accenture,5
+Rohit Kumar,finance,Financial Analyst,"Risk Analysis, Financial Modeling, Budget Forecasting",Infosys,2
+Priya Singh,marketing,Content Strategist,"SEO, Email Marketing, Social Media Marketing",Accenture,1
+Rohit Kumar,finance,Accountant,"Excel, Investment Analysis, Budget Forecasting",Infosys,5
+Neha Kapoor,software,Machine Learning Engineer,"SQL, REST APIs, TensorFlow",Infosys,7
+Anjali Gupta,marketing,Content Strategist,"Google Analytics, Email Marketing, Content Marketing",IBM,7
+Priya Singh,marketing,Digital Marketing Specialist,"Email Marketing, Social Media Marketing, Google Analytics",Microsoft,9
+Vikas Mehta,hr,Talent Acquisition Specialist,"Employee Relations, Talent Management, HR Policies",TCS,8
+Amit Verma,marketing,SEO Analyst,"Social Media Marketing, Google Analytics, Email Marketing",Google,2
+Rohit Kumar,finance,Financial Analyst,"Excel, Risk Analysis, Financial Modeling",Microsoft,7
+Neha Kapoor,software,Full Stack Developer,"REST APIs, Flask, TensorFlow",Amazon,4
+Neha Kapoor,marketing,Social Media Manager,"Social Media Marketing, Email Marketing, Google Analytics",IBM,3
+Priya Singh,finance,Accountant,"Budget Forecasting, Risk Analysis, Financial Modeling",Google,2
+Anjali Gupta,finance,Investment Analyst,"Budget Forecasting, Excel, Risk Analysis",Microsoft,10
+Sneha Patel,marketing,Content Strategist,"Google Analytics, Social Media Marketing, Content Marketing",Google,3
+Neha Kapoor,hr,HR Generalist,"Employee Relations, Recruitment, HR Policies",Google,10
+Sneha Patel,finance,Risk Analyst,"Risk Analysis, Financial Modeling, Budget Forecasting",Google,6
+Rohit Kumar,marketing,SEO Analyst,"Content Marketing, Google Analytics, Email Marketing",TCS,3
+Neha Kapoor,finance,Accountant,"Budget Forecasting, Excel, Risk Analysis",TCS,10
+Rohit Kumar,finance,Accountant,"Excel, Financial Modeling, Risk Analysis",Accenture,2
+Priya Singh,marketing,Digital Marketing Specialist,"Content Marketing, Email Marketing, Social Media Marketing",TCS,10
+Anjali Gupta,finance,Accountant,"Budget Forecasting, Excel, Risk Analysis",Amazon,4
+Rahul Sharma,marketing,Digital Marketing Specialist,"Google Analytics, SEO, Email Marketing",Accenture,3
+Neha Kapoor,hr,HR Manager,"HR Policies, Talent Management, Recruitment",Meta,5
+Sneha Patel,hr,HR Manager,"Talent Management, HR Policies, Recruitment",Amazon,5
+Anjali Gupta,hr,HR Generalist,"Recruitment, HR Policies, Talent Management",Infosys,6
+Sneha Patel,finance,Investment Analyst,"Excel, Risk Analysis, Investment Analysis",Microsoft,7
+Sneha Patel,hr,HR Generalist,"Talent Management, Employee Relations, HR Policies",IBM,7
+Priya Singh,software,Data Scientist,"Machine Learning, Flask, Django",Meta,1
+Sneha Patel,software,Full Stack Developer,"TensorFlow, Git, REST APIs",IBM,8
+Neha Kapoor,marketing,Social Media Manager,"Social Media Marketing, Content Marketing, SEO",Amazon,5
+Rohit Kumar,hr,Talent Acquisition Specialist,"HR Policies, Recruitment, Employee Relations",Microsoft,4
+Rahul Sharma,marketing,Digital Marketing Specialist,"Email Marketing, Content Marketing, Social Media Marketing",Microsoft,1
+Neha Kapoor,hr,HR Generalist,"Employee Relations, Talent Management, Recruitment",Amazon,2
+Rahul Sharma,finance,Risk Analyst,"Excel, Budget Forecasting, Financial Modeling",Meta,2
+Rohit Kumar,marketing,Social Media Manager,"Email Marketing, Social Media Marketing, Content Marketing",Infosys,10
+Rahul Sharma,hr,HR Generalist,"Recruitment, HR Policies, Employee Relations",Meta,9
+Neha Kapoor,software,Machine Learning Engineer,"Git, Docker, REST APIs",Infosys,2
+Amit Verma,hr,HR Generalist,"Recruitment, Talent Management, Employee Relations",TCS,7
+Vikas Mehta,finance,Financial Analyst,"Excel, Investment Analysis, Financial Modeling",Infosys,10
+Neha Kapoor,software,Backend Engineer,"Django, Python, Docker",Accenture,3
+Neha Kapoor,software,Data Scientist,"Docker, REST APIs, Git",Meta,8
+Amit Verma,software,Full Stack Developer,"Django, Git, Docker",Google,8
+Anjali Gupta,marketing,Digital Marketing Specialist,"SEO, Email Marketing, Social Media Marketing",Google,2
+Vikas Mehta,hr,HR Generalist,"HR Policies, Talent Management, Employee Relations",Infosys,9
+Amit Verma,hr,Talent Acquisition Specialist,"HR Policies, Talent Management, Recruitment",Meta,10
+Neha Kapoor,finance,Financial Analyst,"Budget Forecasting, Excel, Risk Analysis",Microsoft,5
+Sneha Patel,marketing,Social Media Manager,"Social Media Marketing, Content Marketing, Email Marketing",Infosys,2
+Rohit Kumar,software,Backend Engineer,"Docker, Python, SQL",TCS,4
+Priya Singh,finance,Investment Analyst,"Risk Analysis, Financial Modeling, Budget Forecasting",Amazon,1
+Neha Kapoor,software,Backend Engineer,"Machine Learning, Flask, SQL",Meta,9
+Neha Kapoor,software,Backend Engineer,"TensorFlow, Django, Docker",Microsoft,4
+Neha Kapoor,software,Python Developer,"Docker, Machine Learning, Django",Infosys,9
+Neha Kapoor,finance,Accountant,"Budget Forecasting, Risk Analysis, Investment Analysis",Meta,9
+Anjali Gupta,marketing,Digital Marketing Specialist,"Content Marketing, Social Media Marketing, Google Analytics",Meta,5
+Amit Verma,finance,Risk Analyst,"Investment Analysis, Financial Modeling, Excel",Accenture,2
+Amit Verma,finance,Risk Analyst,"Investment Analysis, Excel, Budget Forecasting",Microsoft,4
+Anjali Gupta,hr,Talent Acquisition Specialist,"Talent Management, Recruitment, HR Policies",Google,9
+Rohit Kumar,marketing,Social Media Manager,"Social Media Marketing, Google Analytics, Email Marketing",Amazon,2
+Anjali Gupta,software,Data Scientist,"Git, Python, Django",Infosys,3
+Sneha Patel,hr,HR Generalist,"Employee Relations, HR Policies, Recruitment",Microsoft,8
+Amit Verma,hr,HR Manager,"Talent Management, Employee Relations, HR Policies",Infosys,10
+Anjali Gupta,software,Python Developer,"Django, SQL, Docker",Infosys,2
+Anjali Gupta,marketing,SEO Analyst,"Content Marketing, Social Media Marketing, Google Analytics",Google,1
+Priya Singh,hr,Talent Acquisition Specialist,"HR Policies, Employee Relations, Recruitment",Amazon,8
+Priya Singh,marketing,Content Strategist,"Google Analytics, SEO, Content Marketing",IBM,7
+Rahul Sharma,hr,HR Generalist,"Talent Management, Employee Relations, HR Policies",Accenture,1
+Anjali Gupta,marketing,Digital Marketing Specialist,"Google Analytics, Social Media Marketing, Content Marketing",TCS,2
+Vikas Mehta,hr,Talent Acquisition Specialist,"Talent Management, HR Policies, Employee Relations",Accenture,4
+Rohit Kumar,finance,Accountant,"Budget Forecasting, Excel, Investment Analysis",Google,10
+Vikas Mehta,finance,Risk Analyst,"Investment Analysis, Excel, Budget Forecasting",IBM,4
+Priya Singh,hr,HR Generalist,"Talent Management, Employee Relations, HR Policies",Meta,7
+Neha Kapoor,hr,Talent Acquisition Specialist,"HR Policies, Recruitment, Employee Relations",Infosys,9
+Sneha Patel,finance,Risk Analyst,"Investment Analysis, Risk Analysis, Budget Forecasting",Google,1
+Amit Verma,finance,Risk Analyst,"Investment Analysis, Financial Modeling, Risk Analysis",Meta,10
+Rahul Sharma,marketing,SEO Analyst,"Email Marketing, Content Marketing, Google Analytics",Accenture,7
+Priya Singh,marketing,Digital Marketing Specialist,"Content Marketing, Google Analytics, Email Marketing",Google,7
+Rahul Sharma,hr,Talent Acquisition Specialist,"Talent Management, Recruitment, HR Policies",Infosys,5
+Priya Singh,finance,Investment Analyst,"Investment Analysis, Financial Modeling, Excel",TCS,7
+Amit Verma,finance,Accountant,"Financial Modeling, Risk Analysis, Excel",Microsoft,4
+Priya Singh,software,Backend Engineer,"REST APIs, Flask, SQL",Amazon,2
+Amit Verma,software,Data Scientist,"Git, REST APIs, SQL",Meta,9
+Vikas Mehta,finance,Risk Analyst,"Risk Analysis, Budget Forecasting, Excel",IBM,8
+Amit Verma,hr,HR Manager,"Recruitment, Talent Management, Employee Relations",Microsoft,4
+Priya Singh,hr,HR Manager,"Talent Management, HR Policies, Recruitment",Infosys,1
+Amit Verma,software,Python Developer,"TensorFlow, Flask, Docker",Google,7
+Rahul Sharma,hr,Talent Acquisition Specialist,"Employee Relations, Recruitment, HR Policies",Meta,1
+Neha Kapoor,hr,HR Manager,"Talent Management, HR Policies, Employee Relations",Microsoft,8
+Amit Verma,software,Machine Learning Engineer,"Flask, Docker, Machine Learning",Meta,10
+Sneha Patel,finance,Risk Analyst,"Risk Analysis, Budget Forecasting, Investment Analysis",Microsoft,7
+Anjali Gupta,finance,Risk Analyst,"Budget Forecasting, Excel, Risk Analysis",Amazon,4
+Priya Singh,software,Backend Engineer,"Git, Flask, TensorFlow",TCS,1
+Sneha Patel,software,Machine Learning Engineer,"Python, Django, Git",Amazon,10
+Priya Singh,finance,Accountant,"Excel, Financial Modeling, Investment Analysis",IBM,5
+Rahul Sharma,software,Python Developer,"Machine Learning, Python, TensorFlow",Meta,1
+Sneha Patel,software,Python Developer,"REST APIs, Python, Django",TCS,3
+Vikas Mehta,software,Backend Engineer,"Machine Learning, REST APIs, Python",IBM,8
+Vikas Mehta,hr,Talent Acquisition Specialist,"Talent Management, Recruitment, Employee Relations",Infosys,8
+Rahul Sharma,marketing,Content Strategist,"Social Media Marketing, Email Marketing, Content Marketing",Microsoft,1
+Anjali Gupta,finance,Accountant,"Financial Modeling, Investment Analysis, Risk Analysis",Amazon,5
+Priya Singh,software,Backend Engineer,"Python, SQL, Docker",Meta,8
+Sneha Patel,marketing,Social Media Manager,"Email Marketing, SEO, Social Media Marketing",Infosys,7
+Sneha Patel,hr,HR Manager,"Talent Management, Employee Relations, Recruitment",Accenture,1
+Neha Kapoor,finance,Financial Analyst,"Budget Forecasting, Investment Analysis, Excel",Accenture,7
+Amit Verma,hr,HR Generalist,"Talent Management, Employee Relations, Recruitment",Amazon,8
+Sneha Patel,software,Machine Learning Engineer,"Flask, Django, Python",Microsoft,3
+Vikas Mehta,software,Data Scientist,"Docker, Django, SQL",IBM,2
+Sneha Patel,finance,Accountant,"Investment Analysis, Risk Analysis, Financial Modeling",Accenture,1
+Neha Kapoor,hr,HR Manager,"Talent Management, HR Policies, Recruitment",Accenture,8
+Priya Singh,software,Machine Learning Engineer,"Git, Flask, Docker",Accenture,9
+Rahul Sharma,marketing,SEO Analyst,"Google Analytics, Content Marketing, Email Marketing",Meta,2
+Sneha Patel,marketing,Digital Marketing Specialist,"SEO, Content Marketing, Google Analytics",Infosys,1
+Sneha Patel,finance,Accountant,"Investment Analysis, Excel, Financial Modeling",Meta,6
+Rohit Kumar,marketing,Social Media Manager,"SEO, Content Marketing, Google Analytics",Microsoft,1
+Rahul Sharma,hr,HR Generalist,"Employee Relations, Recruitment, Talent Management",Microsoft,9
+Priya Singh,marketing,Social Media Manager,"SEO, Email Marketing, Content Marketing",Infosys,8
+Amit Verma,marketing,Social Media Manager,"SEO, Email Marketing, Google Analytics",Infosys,3
+Anjali Gupta,finance,Risk Analyst,"Risk Analysis, Excel, Budget Forecasting",IBM,3
+Vikas Mehta,hr,Talent Acquisition Specialist,"Employee Relations, Recruitment, HR Policies",Google,3
+Anjali Gupta,software,Data Scientist,"TensorFlow, Machine Learning, REST APIs",Accenture,7
+Priya Singh,software,Full Stack Developer,"SQL, Django, TensorFlow",Microsoft,1
+Sneha Patel,finance,Risk Analyst,"Budget Forecasting, Investment Analysis, Risk Analysis",Google,5
+Rahul Sharma,finance,Accountant,"Risk Analysis, Budget Forecasting, Financial Modeling",Microsoft,10
+Rohit Kumar,finance,Financial Analyst,"Budget Forecasting, Excel, Financial Modeling",Microsoft,4
+Rohit Kumar,software,Backend Engineer,"Git, Python, SQL",Google,9
+Amit Verma,software,Backend Engineer,"SQL, Django, Python",IBM,8
+Priya Singh,hr,Talent Acquisition Specialist,"HR Policies, Talent Management, Recruitment",Amazon,6
+Anjali Gupta,hr,HR Manager,"Employee Relations, Recruitment, HR Policies",Google,10
+Vikas Mehta,marketing,SEO Analyst,"Social Media Marketing, SEO, Google Analytics",IBM,2
+Sneha Patel,marketing,Content Strategist,"SEO, Google Analytics, Content Marketing",Accenture,2
+Sneha Patel,marketing,Digital Marketing Specialist,"Email Marketing, Social Media Marketing, Content Marketing",TCS,1
+Neha Kapoor,marketing,SEO Analyst,"Email Marketing, Content Marketing, Social Media Marketing",Microsoft,4
+Sneha Patel,finance,Financial Analyst,"Budget Forecasting, Risk Analysis, Excel",Infosys,7
+Rohit Kumar,hr,HR Manager,"Talent Management, Recruitment, HR Policies",Amazon,2
+Priya Singh,software,Machine Learning Engineer,"SQL, TensorFlow, REST APIs",Google,10
+Amit Verma,hr,HR Manager,"Talent Management, HR Policies, Recruitment",Infosys,8
+Vikas Mehta,finance,Risk Analyst,"Budget Forecasting, Excel, Risk Analysis",Microsoft,9
+Anjali Gupta,software,Python Developer,"Django, SQL, TensorFlow",Meta,1
+Rohit Kumar,finance,Financial Analyst,"Risk Analysis, Financial Modeling, Excel",TCS,4
+Anjali Gupta,software,Backend Engineer,"Git, TensorFlow, Django",Meta,1
+Rahul Sharma,hr,Talent Acquisition Specialist,"Recruitment, HR Policies, Talent Management",Amazon,6
+Rahul Sharma,finance,Accountant,"Excel, Risk Analysis, Budget Forecasting",TCS,7
+Anjali Gupta,marketing,Social Media Manager,"Google Analytics, Social Media Marketing, Email Marketing",Amazon,2
+Rohit Kumar,hr,HR Manager,"Recruitment, Employee Relations, HR Policies",Google,3
+Priya Singh,finance,Financial Analyst,"Investment Analysis, Excel, Budget Forecasting",IBM,9
+Rahul Sharma,hr,HR Manager,"Recruitment, Employee Relations, HR Policies",Meta,7
+Neha Kapoor,software,Full Stack Developer,"Machine Learning, REST APIs, Docker",Amazon,3
+Priya Singh,software,Backend Engineer,"TensorFlow, SQL, Git",IBM,5
+Sneha Patel,marketing,Digital Marketing Specialist,"Social Media Marketing, Content Marketing, Email Marketing",TCS,9
+Rahul Sharma,finance,Accountant,"Investment Analysis, Financial Modeling, Excel",IBM,3
+Rahul Sharma,finance,Accountant,"Excel, Financial Modeling, Investment Analysis",TCS,10
+Rohit Kumar,marketing,Social Media Manager,"Google Analytics, Content Marketing, SEO",Meta,5
+Neha Kapoor,marketing,SEO Analyst,"SEO, Email Marketing, Google Analytics",Google,9
+Anjali Gupta,marketing,Social Media Manager,"SEO, Content Marketing, Google Analytics",Google,9
+Rohit Kumar,software,Data Scientist,"Django, Flask, REST APIs",Accenture,9
+Priya Singh,marketing,Digital Marketing Specialist,"Social Media Marketing, Google Analytics, Email Marketing",Accenture,1
+Priya Singh,marketing,Content Strategist,"Content Marketing, SEO, Social Media Marketing",Infosys,5
+Amit Verma,finance,Accountant,"Investment Analysis, Financial Modeling, Risk Analysis",Accenture,7
+Anjali Gupta,hr,HR Manager,"HR Policies, Recruitment, Talent Management",TCS,5
+Rohit Kumar,hr,HR Generalist,"HR Policies, Employee Relations, Recruitment",Meta,6
+Rohit Kumar,software,Full Stack Developer,"TensorFlow, SQL, REST APIs",Accenture,1
+Rohit Kumar,finance,Financial Analyst,"Excel, Financial Modeling, Risk Analysis",TCS,1
+Amit Verma,marketing,Digital Marketing Specialist,"Content Marketing, SEO, Google Analytics",Microsoft,9
+Amit Verma,hr,Talent Acquisition Specialist,"HR Policies, Employee Relations, Talent Management",Meta,4
+Amit Verma,finance,Financial Analyst,"Budget Forecasting, Financial Modeling, Excel",Infosys,8
+Vikas Mehta,hr,Talent Acquisition Specialist,"Talent Management, HR Policies, Employee Relations",Accenture,9
+Rahul Sharma,software,Full Stack Developer,"REST APIs, Git, Docker",TCS,9
+Amit Verma,finance,Risk Analyst,"Excel, Budget Forecasting, Financial Modeling",Microsoft,10
+Vikas Mehta,marketing,SEO Analyst,"Social Media Marketing, Email Marketing, Google Analytics",Google,1
+Neha Kapoor,hr,HR Manager,"Employee Relations, HR Policies, Recruitment",Amazon,9
+Anjali Gupta,software,Python Developer,"SQL, TensorFlow, Machine Learning",IBM,8
+Sneha Patel,software,Python Developer,"Docker, Django, TensorFlow",Amazon,9
+Priya Singh,finance,Accountant,"Budget Forecasting, Financial Modeling, Investment Analysis",Meta,10
+Rahul Sharma,software,Machine Learning Engineer,"TensorFlow, Django, REST APIs",Amazon,9
+Amit Verma,marketing,Content Strategist,"Social Media Marketing, Content Marketing, Google Analytics",Amazon,7
+Amit Verma,finance,Investment Analyst,"Investment Analysis, Financial Modeling, Excel",TCS,10
+Vikas Mehta,hr,HR Manager,"Talent Management, Recruitment, HR Policies",TCS,4
+Rohit Kumar,hr,Talent Acquisition Specialist,"Employee Relations, Talent Management, Recruitment",Microsoft,2
+Priya Singh,marketing,SEO Analyst,"Google Analytics, Email Marketing, Social Media Marketing",IBM,3
+Amit Verma,hr,HR Manager,"Employee Relations, HR Policies, Recruitment",IBM,9
+Anjali Gupta,hr,HR Generalist,"HR Policies, Talent Management, Recruitment",Meta,4
+Rohit Kumar,hr,HR Generalist,"Talent Management, Employee Relations, Recruitment",Amazon,2
+Neha Kapoor,hr,HR Generalist,"Employee Relations, Talent Management, HR Policies",Accenture,4
+Amit Verma,hr,HR Manager,"Employee Relations, HR Policies, Talent Management",TCS,8
+Anjali Gupta,marketing,SEO Analyst,"Google Analytics, Email Marketing, Content Marketing",Microsoft,3
+Priya Singh,software,Machine Learning Engineer,"SQL, Flask, TensorFlow",Microsoft,7
+Priya Singh,finance,Risk Analyst,"Budget Forecasting, Risk Analysis, Excel",Meta,7
+Priya Singh,finance,Risk Analyst,"Risk Analysis, Investment Analysis, Budget Forecasting",IBM,8
+Sneha Patel,hr,HR Manager,"Recruitment, Employee Relations, Talent Management",Accenture,9
+Anjali Gupta,finance,Investment Analyst,"Excel, Investment Analysis, Budget Forecasting",Accenture,2
+Anjali Gupta,hr,HR Manager,"Recruitment, HR Policies, Employee Relations",Microsoft,7
+Vikas Mehta,marketing,SEO Analyst,"SEO, Social Media Marketing, Email Marketing",TCS,7
+Amit Verma,finance,Accountant,"Budget Forecasting, Excel, Investment Analysis",Meta,10
+Sneha Patel,hr,HR Manager,"Talent Management, HR Policies, Recruitment",Accenture,3
+Neha Kapoor,software,Python Developer,"Django, Flask, REST APIs",Accenture,7
+Neha Kapoor,finance,Accountant,"Investment Analysis, Risk Analysis, Budget Forecasting",TCS,2
+Anjali Gupta,hr,Talent Acquisition Specialist,"Talent Management, Employee Relations, HR Policies",Microsoft,4
+Sneha Patel,hr,HR Generalist,"Talent Management, Employee Relations, Recruitment",Amazon,8
+Amit Verma,marketing,Digital Marketing Specialist,"Google Analytics, Content Marketing, Email Marketing",Google,7
+Vikas Mehta,marketing,Social Media Manager,"SEO, Email Marketing, Content Marketing",TCS,10
+Vikas Mehta,hr,HR Manager,"Recruitment, HR Policies, Talent Management",TCS,2
+Rohit Kumar,marketing,Social Media Manager,"Social Media Marketing, Google Analytics, Content Marketing",Google,7
+Rohit Kumar,hr,HR Manager,"Recruitment, Employee Relations, Talent Management",Infosys,8
+Neha Kapoor,software,Full Stack Developer,"Python, REST APIs, Machine Learning",Meta,5
+Rahul Sharma,hr,HR Generalist,"Employee Relations, Recruitment, HR Policies",Meta,8
+Vikas Mehta,finance,Investment Analyst,"Risk Analysis, Investment Analysis, Budget Forecasting",Google,3
+Neha Kapoor,software,Machine Learning Engineer,"Python, Git, TensorFlow",Amazon,7
+Sneha Patel,software,Backend Engineer,"Python, Django, Flask",Google,9
+Sneha Patel,software,Python Developer,"Machine Learning, Git, Django",Google,5
+Amit Verma,finance,Risk Analyst,"Financial Modeling, Budget Forecasting, Excel",Meta,4
+Priya Singh,finance,Risk Analyst,"Risk Analysis, Budget Forecasting, Investment Analysis",Infosys,6
+Amit Verma,hr,HR Generalist,"Talent Management, HR Policies, Employee Relations",Meta,5
+Rahul Sharma,marketing,Social Media Manager,"SEO, Content Marketing, Google Analytics",Amazon,2
+Rohit Kumar,software,Full Stack Developer,"Git, Django, Machine Learning",Microsoft,10
+Rohit Kumar,finance,Investment Analyst,"Budget Forecasting, Financial Modeling, Investment Analysis",Meta,2
+Rahul Sharma,marketing,Content Strategist,"SEO, Social Media Marketing, Content Marketing",Accenture,6
+Amit Verma,marketing,Social Media Manager,"Email Marketing, Social Media Marketing, Google Analytics",IBM,7
+Anjali Gupta,marketing,Digital Marketing Specialist,"SEO, Google Analytics, Content Marketing",IBM,6
+Rohit Kumar,software,Full Stack Developer,"Machine Learning, Docker, Django",Infosys,6
+Anjali Gupta,hr,HR Generalist,"Employee Relations, Talent Management, HR Policies",Amazon,2
+Sneha Patel,hr,Talent Acquisition Specialist,"Employee Relations, Recruitment, Talent Management",Accenture,4
+Neha Kapoor,software,Backend Engineer,"TensorFlow, Docker, Flask",Amazon,3
+Rohit Kumar,hr,HR Manager,"Recruitment, Employee Relations, HR Policies",Microsoft,9
+Rohit Kumar,finance,Accountant,"Risk Analysis, Investment Analysis, Budget Forecasting",Amazon,10
+Neha Kapoor,software,Full Stack Developer,"Machine Learning, Docker, Python",TCS,9
+Amit Verma,software,Full Stack Developer,"REST APIs, Git, TensorFlow",IBM,6
+Sneha Patel,hr,HR Manager,"Talent Management, Recruitment, HR Policies",Meta,4
+Sneha Patel,marketing,Social Media Manager,"SEO, Content Marketing, Email Marketing",Infosys,5
+Rahul Sharma,finance,Accountant,"Risk Analysis, Budget Forecasting, Investment Analysis",Infosys,10
+Sneha Patel,hr,HR Generalist,"Employee Relations, Recruitment, Talent Management",Infosys,10
+Amit Verma,finance,Investment Analyst,"Risk Analysis, Budget Forecasting, Excel",Google,1
+Sneha Patel,software,Machine Learning Engineer,"Django, TensorFlow, Docker",Amazon,3
+Rahul Sharma,marketing,SEO Analyst,"Content Marketing, Email Marketing, SEO",TCS,3
+Vikas Mehta,hr,HR Manager,"Employee Relations, Talent Management, HR Policies",Microsoft,8
+Amit Verma,marketing,Content Strategist,"Google Analytics, Email Marketing, Social Media Marketing",Microsoft,2
+Anjali Gupta,software,Backend Engineer,"Python, REST APIs, Flask",Meta,7
+Neha Kapoor,marketing,Content Strategist,"Google Analytics, SEO, Social Media Marketing",TCS,7
+Neha Kapoor,software,Machine Learning Engineer,"Git, REST APIs, Django",IBM,2
+Neha Kapoor,marketing,Content Strategist,"Email Marketing, Content Marketing, SEO",Infosys,4
+Neha Kapoor,finance,Risk Analyst,"Investment Analysis, Risk Analysis, Excel",Infosys,6
+Vikas Mehta,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Recruitment",Accenture,3
+Vikas Mehta,marketing,Content Strategist,"Content Marketing, Google Analytics, SEO",Infosys,1
+Rahul Sharma,marketing,Social Media Manager,"Social Media Marketing, Content Marketing, Google Analytics",Amazon,8
+Rohit Kumar,marketing,Content Strategist,"Content Marketing, Google Analytics, SEO",Amazon,10
+Rohit Kumar,software,Backend Engineer,"Machine Learning, REST APIs, Django",Google,10
+Sneha Patel,hr,Talent Acquisition Specialist,"Recruitment, Employee Relations, Talent Management",TCS,4
+Anjali Gupta,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Talent Management",Amazon,7
+Sneha Patel,hr,HR Generalist,"Employee Relations, HR Policies, Talent Management",TCS,7
+Rahul Sharma,marketing,Digital Marketing Specialist,"Email Marketing, Social Media Marketing, SEO",Google,4
+Priya Singh,software,Python Developer,"Git, Docker, Django",Microsoft,3
+Sneha Patel,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Recruitment",Meta,6
+Anjali Gupta,hr,Talent Acquisition Specialist,"Talent Management, Recruitment, HR Policies",Meta,2
+Amit Verma,finance,Financial Analyst,"Risk Analysis, Excel, Financial Modeling",TCS,3
+Rahul Sharma,finance,Accountant,"Budget Forecasting, Investment Analysis, Financial Modeling",Infosys,3
+Anjali Gupta,hr,HR Manager,"HR Policies, Recruitment, Talent Management",Meta,6
+Amit Verma,software,Machine Learning Engineer,"REST APIs, TensorFlow, Django",Meta,7
+Vikas Mehta,software,Backend Engineer,"Docker, REST APIs, Git",IBM,8
+Rahul Sharma,finance,Accountant,"Investment Analysis, Excel, Financial Modeling",Meta,7
+Neha Kapoor,marketing,SEO Analyst,"Email Marketing, Social Media Marketing, Google Analytics",Google,3
+Sneha Patel,marketing,SEO Analyst,"Email Marketing, Google Analytics, Content Marketing",IBM,4
+Priya Singh,software,Backend Engineer,"Git, TensorFlow, Flask",Meta,5
+Priya Singh,finance,Risk Analyst,"Excel, Investment Analysis, Financial Modeling",IBM,9
+Vikas Mehta,marketing,Content Strategist,"Content Marketing, SEO, Google Analytics",Infosys,8
+Vikas Mehta,finance,Financial Analyst,"Budget Forecasting, Investment Analysis, Financial Modeling",Accenture,10
+Priya Singh,software,Full Stack Developer,"Flask, TensorFlow, Docker",Accenture,7
+Amit Verma,marketing,Social Media Manager,"Content Marketing, Google Analytics, Social Media Marketing",Google,3
+Vikas Mehta,marketing,Social Media Manager,"SEO, Google Analytics, Content Marketing",Infosys,3
+Rohit Kumar,software,Backend Engineer,"Flask, Django, SQL",Meta,7
+Priya Singh,finance,Investment Analyst,"Budget Forecasting, Risk Analysis, Excel",Microsoft,2
+Neha Kapoor,hr,HR Generalist,"Employee Relations, Recruitment, Talent Management",Amazon,4
+Rohit Kumar,marketing,Content Strategist,"Google Analytics, Social Media Marketing, Email Marketing",Google,4
+Vikas Mehta,finance,Investment Analyst,"Budget Forecasting, Financial Modeling, Risk Analysis",Amazon,1
+Rohit Kumar,software,Machine Learning Engineer,"TensorFlow, Flask, Machine Learning",Amazon,6
+Anjali Gupta,hr,HR Generalist,"HR Policies, Talent Management, Employee Relations",IBM,1
+Sneha Patel,marketing,Digital Marketing Specialist,"Social Media Marketing, Email Marketing, Google Analytics",Infosys,3
+Priya Singh,marketing,Digital Marketing Specialist,"Content Marketing, Email Marketing, Google Analytics",TCS,7
+Sneha Patel,software,Data Scientist,"Git, Docker, TensorFlow",Microsoft,1
+Sneha Patel,marketing,Content Strategist,"Social Media Marketing, Content Marketing, Email Marketing",Accenture,2
+Priya Singh,software,Data Scientist,"Django, TensorFlow, SQL",TCS,5
+Priya Singh,finance,Investment Analyst,"Budget Forecasting, Excel, Risk Analysis",Accenture,1
+Anjali Gupta,hr,HR Generalist,"HR Policies, Employee Relations, Recruitment",Accenture,9
+Anjali Gupta,marketing,Social Media Manager,"Google Analytics, Social Media Marketing, Email Marketing",Google,5
+Priya Singh,marketing,Social Media Manager,"SEO, Email Marketing, Content Marketing",Google,4
+Neha Kapoor,marketing,SEO Analyst,"SEO, Google Analytics, Social Media Marketing",IBM,10
+Priya Singh,finance,Accountant,"Investment Analysis, Budget Forecasting, Excel",Infosys,5
+Amit Verma,finance,Investment Analyst,"Financial Modeling, Excel, Budget Forecasting",Microsoft,5
+Rohit Kumar,finance,Investment Analyst,"Investment Analysis, Excel, Risk Analysis",Accenture,10
+Sneha Patel,software,Backend Engineer,"REST APIs, Docker, Flask",IBM,9
+Rahul Sharma,hr,HR Generalist,"Recruitment, Employee Relations, Talent Management",IBM,9
+Anjali Gupta,finance,Risk Analyst,"Financial Modeling, Investment Analysis, Risk Analysis",Accenture,9
+Rohit Kumar,marketing,Content Strategist,"Email Marketing, Content Marketing, Social Media Marketing",Google,10
+Rahul Sharma,hr,HR Manager,"Recruitment, Talent Management, Employee Relations",TCS,6
+Neha Kapoor,marketing,Content Strategist,"Email Marketing, SEO, Social Media Marketing",Google,2
+Rohit Kumar,hr,Talent Acquisition Specialist,"Recruitment, Employee Relations, Talent Management",Accenture,9
+Vikas Mehta,hr,HR Generalist,"Talent Management, Employee Relations, Recruitment",Amazon,6
+Anjali Gupta,hr,HR Manager,"Talent Management, Employee Relations, Recruitment",Meta,1
+Priya Singh,finance,Accountant,"Excel, Risk Analysis, Investment Analysis",TCS,6
+Rahul Sharma,marketing,Content Strategist,"Email Marketing, Social Media Marketing, SEO",Accenture,7
+Neha Kapoor,hr,HR Manager,"Talent Management, Recruitment, Employee Relations",Infosys,3
+Rahul Sharma,software,Python Developer,"Flask, Docker, REST APIs",Amazon,3
+Rahul Sharma,software,Python Developer,"Python, Flask, REST APIs",Meta,2
+Priya Singh,software,Full Stack Developer,"Python, Docker, TensorFlow",Accenture,3
+Neha Kapoor,hr,Talent Acquisition Specialist,"HR Policies, Recruitment, Talent Management",Amazon,3
+Amit Verma,software,Full Stack Developer,"Machine Learning, Flask, Git",Infosys,1
+Neha Kapoor,marketing,Social Media Manager,"Social Media Marketing, Google Analytics, SEO",TCS,7
+Vikas Mehta,finance,Financial Analyst,"Risk Analysis, Investment Analysis, Excel",Google,2
+Neha Kapoor,hr,HR Generalist,"HR Policies, Recruitment, Employee Relations",Google,4
+Rahul Sharma,hr,Talent Acquisition Specialist,"Recruitment, Talent Management, Employee Relations",Amazon,5
+Anjali Gupta,marketing,Content Strategist,"Content Marketing, Google Analytics, Social Media Marketing",Microsoft,10
+Anjali Gupta,finance,Risk Analyst,"Budget Forecasting, Excel, Risk Analysis",IBM,1
+Anjali Gupta,hr,Talent Acquisition Specialist,"Employee Relations, Recruitment, Talent Management",Infosys,3
+Anjali Gupta,software,Data Scientist,"Django, TensorFlow, SQL",Meta,8
+Vikas Mehta,software,Full Stack Developer,"REST APIs, SQL, Git",Infosys,9
+Sneha Patel,marketing,Content Strategist,"Social Media Marketing, Email Marketing, Google Analytics",TCS,7
+Rahul Sharma,marketing,Social Media Manager,"Google Analytics, Content Marketing, SEO",TCS,4
+Rohit Kumar,software,Full Stack Developer,"Docker, Django, Flask",Google,6
+Vikas Mehta,software,Machine Learning Engineer,"Flask, REST APIs, Machine Learning",Infosys,4
+Rahul Sharma,hr,HR Generalist,"Talent Management, Recruitment, HR Policies",Amazon,10
+Anjali Gupta,hr,HR Manager,"HR Policies, Recruitment, Employee Relations",Accenture,3
+Sneha Patel,marketing,Social Media Manager,"Content Marketing, Social Media Marketing, Email Marketing",Amazon,1
+Amit Verma,marketing,Social Media Manager,"Social Media Marketing, Google Analytics, SEO",Meta,1
+Rahul Sharma,finance,Financial Analyst,"Financial Modeling, Investment Analysis, Excel",Amazon,2
+Neha Kapoor,hr,HR Manager,"Employee Relations, Recruitment, HR Policies",Google,1
+Vikas Mehta,finance,Investment Analyst,"Investment Analysis, Risk Analysis, Budget Forecasting",IBM,4
+Anjali Gupta,software,Data Scientist,"Flask, SQL, Git",TCS,2
+Rahul Sharma,hr,HR Manager,"Talent Management, Employee Relations, Recruitment",Meta,7
+Amit Verma,hr,Talent Acquisition Specialist,"Talent Management, HR Policies, Recruitment",Amazon,2
+Anjali Gupta,finance,Financial Analyst,"Financial Modeling, Excel, Risk Analysis",Meta,5
+Priya Singh,hr,HR Manager,"Talent Management, HR Policies, Employee Relations",Amazon,1
+Priya Singh,finance,Financial Analyst,"Excel, Financial Modeling, Investment Analysis",Amazon,7
+Rahul Sharma,marketing,SEO Analyst,"Email Marketing, Content Marketing, Google Analytics",TCS,1
+Amit Verma,hr,HR Manager,"Employee Relations, HR Policies, Recruitment",Google,10
+Vikas Mehta,software,Machine Learning Engineer,"Flask, REST APIs, Django",Meta,5
+Priya Singh,software,Full Stack Developer,"Django, Machine Learning, TensorFlow",Accenture,8
+Neha Kapoor,finance,Accountant,"Investment Analysis, Excel, Risk Analysis",TCS,7
+Neha Kapoor,marketing,Social Media Manager,"Content Marketing, Social Media Marketing, Email Marketing",IBM,8
+Rahul Sharma,marketing,Content Strategist,"SEO, Google Analytics, Social Media Marketing",Accenture,4
+Anjali Gupta,software,Backend Engineer,"TensorFlow, Machine Learning, Docker",Google,2
+Rohit Kumar,software,Full Stack Developer,"Python, Machine Learning, Docker",Amazon,1
+Vikas Mehta,marketing,Digital Marketing Specialist,"Social Media Marketing, Content Marketing, Email Marketing",TCS,4
+Neha Kapoor,finance,Investment Analyst,"Financial Modeling, Risk Analysis, Excel",Accenture,6
+Rohit Kumar,software,Data Scientist,"Python, SQL, REST APIs",Microsoft,9
+Neha Kapoor,software,Data Scientist,"Flask, TensorFlow, Docker",Google,2
+Rohit Kumar,marketing,Social Media Manager,"Google Analytics, SEO, Content Marketing",Microsoft,4
+Sneha Patel,software,Full Stack Developer,"Django, Flask, Docker",TCS,9
+Rahul Sharma,finance,Investment Analyst,"Excel, Budget Forecasting, Financial Modeling",Accenture,8
+Rohit Kumar,hr,HR Generalist,"HR Policies, Recruitment, Talent Management",Google,8
+Priya Singh,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Talent Management",Microsoft,9
+Priya Singh,software,Full Stack Developer,"Machine Learning, Django, Python",Accenture,8
+Sneha Patel,finance,Financial Analyst,"Risk Analysis, Excel, Investment Analysis",Microsoft,3
+Neha Kapoor,hr,HR Generalist,"Talent Management, HR Policies, Employee Relations",Google,1
+Anjali Gupta,finance,Investment Analyst,"Investment Analysis, Budget Forecasting, Financial Modeling",Google,4
+Sneha Patel,marketing,Social Media Manager,"Content Marketing, Google Analytics, SEO",Microsoft,10
+Vikas Mehta,software,Machine Learning Engineer,"Git, Machine Learning, TensorFlow",Google,1
+Rohit Kumar,marketing,Digital Marketing Specialist,"Email Marketing, Social Media Marketing, Content Marketing",Meta,8
+Rohit Kumar,software,Machine Learning Engineer,"Python, Docker, Git",Amazon,9
+Priya Singh,software,Python Developer,"Flask, TensorFlow, Machine Learning",Infosys,3
+Rohit Kumar,software,Python Developer,"REST APIs, Python, Flask",Amazon,3
+Neha Kapoor,finance,Risk Analyst,"Budget Forecasting, Investment Analysis, Risk Analysis",Google,1
+Vikas Mehta,marketing,Social Media Manager,"Social Media Marketing, Email Marketing, SEO",IBM,10
+Priya Singh,hr,HR Manager,"Recruitment, Talent Management, Employee Relations",Infosys,4
+Rahul Sharma,software,Data Scientist,"Django, SQL, Docker",TCS,6
+Rohit Kumar,software,Python Developer,"Git, Flask, REST APIs",IBM,1
+Rohit Kumar,software,Data Scientist,"Git, Django, Python",IBM,4
+Priya Singh,software,Data Scientist,"Django, SQL, Docker",Accenture,5
+Amit Verma,marketing,Social Media Manager,"Content Marketing, Email Marketing, SEO",TCS,6
+Vikas Mehta,hr,Talent Acquisition Specialist,"Talent Management, Recruitment, HR Policies",Infosys,9
+Vikas Mehta,marketing,SEO Analyst,"SEO, Email Marketing, Content Marketing",Amazon,8
+Rahul Sharma,software,Data Scientist,"REST APIs, Flask, SQL",Accenture,8
+Rahul Sharma,software,Machine Learning Engineer,"Machine Learning, REST APIs, TensorFlow",Meta,10
+Neha Kapoor,software,Machine Learning Engineer,"Django, Docker, SQL",Microsoft,4
+Priya Singh,software,Machine Learning Engineer,"Git, Docker, Python",Google,10
+Anjali Gupta,software,Full Stack Developer,"Django, SQL, Python",Google,7
+Sneha Patel,finance,Accountant,"Financial Modeling, Risk Analysis, Excel",Amazon,8
+Rohit Kumar,finance,Accountant,"Investment Analysis, Excel, Risk Analysis",Infosys,7
+Rahul Sharma,software,Machine Learning Engineer,"TensorFlow, Docker, Python",TCS,2
+Amit Verma,marketing,SEO Analyst,"Google Analytics, Email Marketing, Content Marketing",IBM,3
+Priya Singh,software,Full Stack Developer,"Docker, Python, Machine Learning",IBM,7
+Rohit Kumar,finance,Investment Analyst,"Budget Forecasting, Financial Modeling, Investment Analysis",Meta,10
+Neha Kapoor,finance,Investment Analyst,"Budget Forecasting, Excel, Investment Analysis",Amazon,3
+Priya Singh,marketing,Content Strategist,"SEO, Google Analytics, Content Marketing",Infosys,7
+Neha Kapoor,marketing,SEO Analyst,"Content Marketing, SEO, Google Analytics",Accenture,8
+Neha Kapoor,software,Backend Engineer,"Machine Learning, TensorFlow, REST APIs",Google,8
+Anjali Gupta,finance,Investment Analyst,"Investment Analysis, Excel, Budget Forecasting",TCS,3
+Anjali Gupta,hr,HR Manager,"HR Policies, Recruitment, Employee Relations",TCS,7
+Rohit Kumar,finance,Investment Analyst,"Investment Analysis, Budget Forecasting, Financial Modeling",Google,3
+Rohit Kumar,finance,Accountant,"Excel, Investment Analysis, Risk Analysis",Meta,1
+Anjali Gupta,software,Machine Learning Engineer,"Git, Docker, Flask",Meta,8
+Amit Verma,finance,Risk Analyst,"Budget Forecasting, Financial Modeling, Excel",Infosys,1
+Anjali Gupta,hr,HR Manager,"Employee Relations, Recruitment, Talent Management",Meta,5
+Vikas Mehta,finance,Risk Analyst,"Financial Modeling, Budget Forecasting, Investment Analysis",Google,8
+Sneha Patel,hr,HR Manager,"Talent Management, Employee Relations, HR Policies",Infosys,3
+Amit Verma,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Talent Management",Accenture,9
+Rahul Sharma,marketing,Digital Marketing Specialist,"Google Analytics, Content Marketing, SEO",Microsoft,6
+Rohit Kumar,finance,Financial Analyst,"Investment Analysis, Budget Forecasting, Excel",Meta,1
+Vikas Mehta,marketing,Social Media Manager,"Social Media Marketing, Content Marketing, SEO",Microsoft,10
+Amit Verma,hr,HR Generalist,"Recruitment, HR Policies, Employee Relations",Microsoft,6
+Rahul Sharma,hr,Talent Acquisition Specialist,"Employee Relations, Recruitment, Talent Management",IBM,5
+Priya Singh,hr,HR Generalist,"Recruitment, Talent Management, HR Policies",Google,4
+Sneha Patel,finance,Investment Analyst,"Financial Modeling, Investment Analysis, Budget Forecasting",Amazon,2
+Anjali Gupta,finance,Investment Analyst,"Budget Forecasting, Financial Modeling, Investment Analysis",IBM,1
+Rohit Kumar,hr,HR Manager,"Talent Management, Recruitment, HR Policies",Meta,5
+Neha Kapoor,software,Data Scientist,"Git, TensorFlow, SQL",Microsoft,5
+Amit Verma,finance,Financial Analyst,"Investment Analysis, Risk Analysis, Budget Forecasting",Accenture,3
+Priya Singh,hr,Talent Acquisition Specialist,"Employee Relations, Recruitment, HR Policies",Google,1
+Rohit Kumar,software,Data Scientist,"Flask, Docker, Machine Learning",Infosys,7
+Rohit Kumar,marketing,SEO Analyst,"Email Marketing, Content Marketing, Social Media Marketing",Accenture,7
+Anjali Gupta,finance,Accountant,"Risk Analysis, Investment Analysis, Excel",Microsoft,4
+Vikas Mehta,marketing,Social Media Manager,"SEO, Email Marketing, Social Media Marketing",TCS,1
+Anjali Gupta,hr,HR Generalist,"HR Policies, Employee Relations, Talent Management",Microsoft,4
+Rahul Sharma,software,Backend Engineer,"Django, Flask, Docker",Microsoft,5
+Vikas Mehta,software,Machine Learning Engineer,"Django, Git, SQL",Microsoft,9
+Rohit Kumar,hr,HR Manager,"Employee Relations, Recruitment, HR Policies",Microsoft,5
+Neha Kapoor,hr,Talent Acquisition Specialist,"HR Policies, Recruitment, Employee Relations",IBM,6
+Neha Kapoor,software,Data Scientist,"Git, Machine Learning, Python",Microsoft,7
+Amit Verma,finance,Accountant,"Budget Forecasting, Investment Analysis, Risk Analysis",Google,10
+Vikas Mehta,software,Python Developer,"REST APIs, Docker, Flask",Amazon,6
+Vikas Mehta,hr,HR Manager,"HR Policies, Employee Relations, Talent Management",Meta,6
+Neha Kapoor,software,Machine Learning Engineer,"Docker, REST APIs, Machine Learning",Accenture,5
+Rohit Kumar,finance,Accountant,"Budget Forecasting, Excel, Risk Analysis",IBM,5
+Amit Verma,hr,Talent Acquisition Specialist,"Recruitment, Talent Management, HR Policies",Meta,7
+Priya Singh,marketing,Digital Marketing Specialist,"Google Analytics, Email Marketing, SEO",IBM,5
+Amit Verma,software,Machine Learning Engineer,"Docker, Machine Learning, Python",Google,3
+Anjali Gupta,hr,HR Manager,"HR Policies, Talent Management, Employee Relations",Amazon,7
+Vikas Mehta,hr,HR Manager,"Talent Management, Recruitment, Employee Relations",Meta,8
+Neha Kapoor,marketing,Social Media Manager,"Social Media Marketing, Google Analytics, Content Marketing",Meta,4
+Rohit Kumar,marketing,Content Strategist,"Content Marketing, Social Media Marketing, SEO",IBM,3
+Vikas Mehta,software,Python Developer,"SQL, Docker, Django",Google,2
+Neha Kapoor,finance,Investment Analyst,"Investment Analysis, Risk Analysis, Budget Forecasting",Microsoft,7
+Priya Singh,finance,Investment Analyst,"Risk Analysis, Financial Modeling, Investment Analysis",Infosys,7
+Sneha Patel,hr,HR Manager,"Talent Management, Recruitment, HR Policies",Infosys,4
+Sneha Patel,hr,Talent Acquisition Specialist,"Employee Relations, HR Policies, Talent Management",Microsoft,3
+Rohit Kumar,software,Backend Engineer,"REST APIs, Django, Machine Learning",Infosys,8
+Amit Verma,software,Data Scientist,"Flask, TensorFlow, Docker",Google,5
+Rohit Kumar,finance,Accountant,"Budget Forecasting, Risk Analysis, Excel",Amazon,8
+Amit Verma,hr,HR Generalist,"Recruitment, HR Policies, Talent Management",Infosys,6
+Rohit Kumar,hr,Talent Acquisition Specialist,"Talent Management, HR Policies, Recruitment",Google,7
+Rohit Kumar,finance,Accountant,"Investment Analysis, Risk Analysis, Excel",IBM,1
+Neha Kapoor,hr,HR Manager,"Recruitment, Talent Management, HR Policies",Accenture,4
+Rahul Sharma,marketing,Social Media Manager,"Content Marketing, Social Media Marketing, Email Marketing",Google,4
+Amit Verma,software,Data Scientist,"TensorFlow, Flask, SQL",Amazon,8
+Anjali Gupta,finance,Risk Analyst,"Excel, Financial Modeling, Risk Analysis",Amazon,4
+Sneha Patel,finance,Accountant,"Excel, Budget Forecasting, Risk Analysis",Amazon,7
+Sneha Patel,software,Python Developer,"Django, SQL, Docker",Accenture,3
+Anjali Gupta,finance,Risk Analyst,"Excel, Risk Analysis, Budget Forecasting",Meta,6
+Rohit Kumar,finance,Accountant,"Risk Analysis, Budget Forecasting, Excel",Meta,7
+Priya Singh,hr,Talent Acquisition Specialist,"Talent Management, Employee Relations, HR Policies",Amazon,9
+Rahul Sharma,finance,Accountant,"Risk Analysis, Financial Modeling, Investment Analysis",Microsoft,1
+Neha Kapoor,hr,Talent Acquisition Specialist,"Recruitment, HR Policies, Talent Management",Infosys,9
+Anjali Gupta,hr,HR Manager,"Employee Relations, Recruitment, Talent Management",IBM,5
+Neha Kapoor,hr,HR Manager,"HR Policies, Recruitment, Employee Relations",IBM,4
+Anjali Gupta,software,Backend Engineer,"Django, Git, Docker",Amazon,7
+Sneha Patel,finance,Risk Analyst,"Financial Modeling, Investment Analysis, Excel",Microsoft,7
+Anjali Gupta,software,Machine Learning Engineer,"Machine Learning, REST APIs, TensorFlow",Microsoft,7
+Neha Kapoor,finance,Financial Analyst,"Excel, Investment Analysis, Budget Forecasting",Google,6
+Rahul Sharma,marketing,SEO Analyst,"Social Media Marketing, Google Analytics, SEO",Accenture,3
+Sneha Patel,finance,Accountant,"Investment Analysis, Budget Forecasting, Risk Analysis",Google,2
+Priya Singh,marketing,Digital Marketing Specialist,"SEO, Social Media Marketing, Email Marketing",Microsoft,4

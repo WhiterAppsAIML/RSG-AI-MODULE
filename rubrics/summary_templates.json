@@ -1,0 +1,376 @@
+{
+  "templates": [
+
+{
+"id":0,
+"domain":"IT",
+"tier":"fresher",
+"text":"Motivated {position} graduate with strong foundations in {skills}. Passionate about building efficient and scalable solutions and eager to contribute to innovative technology teams. Currently developing practical experience through academic work at {institution}."
+},
+
+{
+"id":1,
+"domain":"IT",
+"tier":"experienced",
+"text":"{name} is a skilled {position} with {years_exp} years of experience in {domain_area}. Known for building reliable systems and delivering high quality solutions. Previously contributed to impactful projects at {last_company} using expertise in {skills}."
+},
+
+{
+"id":2,
+"domain":"IT",
+"tier":"early",
+"text":"Early career {position} with growing experience in {skills}. Demonstrates strong analytical thinking and commitment to building efficient solutions. Contributed to development initiatives at {last_company} while expanding expertise in modern technologies."
+},
+
+{
+"id":3,
+"domain":"IT",
+"tier":"senior",
+"text":"Senior {position} with {years_exp} years of experience in {domain_area}. Recognized for designing scalable systems and leading complex technical initiatives. Delivered strategic results at {last_company} leveraging deep expertise in {skills}."
+},
+
+{
+"id":4,
+"domain":"IT",
+"tier":"experienced",
+"text":"Results-driven {position} with strong experience in {skills}. Skilled at solving complex problems and delivering reliable solutions. Played a key role in projects at {last_company} while driving improvements in software quality."
+},
+
+{
+"id":5,
+"domain":"Management",
+"tier":"fresher",
+"text":"Aspiring {position} with strong organizational and leadership skills. Demonstrates the ability to coordinate tasks and support team goals effectively. Developed management knowledge through academic experience at {institution}."
+},
+
+{
+"id":6,
+"domain":"Management",
+"tier":"early",
+"text":"Early career {position} with experience supporting business operations and project coordination. Known for strong communication skills and attention to detail. Contributed to team success at {last_company} while strengthening expertise in {skills}."
+},
+
+{
+"id":7,
+"domain":"Management",
+"tier":"experienced",
+"text":"Experienced {position} with {years_exp} years of leadership in {domain_area}. Skilled at managing teams, optimizing workflows, and delivering strategic outcomes. Successfully led initiatives at {last_company} using expertise in {skills}."
+},
+
+{
+"id":8,
+"domain":"Management",
+"tier":"senior",
+"text":"Senior {position} with extensive experience in organizational leadership and strategy. Proven ability to drive operational excellence and team performance. Delivered measurable business outcomes at {last_company} leveraging strong expertise in {skills}."
+},
+
+{
+"id":9,
+"domain":"Management",
+"tier":"experienced",
+"text":"Strategic {position} with {years_exp} years of experience in business operations. Skilled in team coordination, planning, and decision making. Played a significant role in improving organizational performance at {last_company}."
+},
+
+{
+"id":10,
+"domain":"Design",
+"tier":"fresher",
+"text":"Creative {position} with strong foundations in visual communication and design principles. Passionate about developing engaging digital experiences. Built design skills through academic work and projects at {institution}."
+},
+
+{
+"id":11,
+"domain":"Design",
+"tier":"early",
+"text":"Early career {position} with growing expertise in {skills}. Focused on delivering visually appealing and user centered design solutions. Contributed to creative projects at {last_company} while expanding design capabilities."
+},
+
+{
+"id":12,
+"domain":"Design",
+"tier":"experienced",
+"text":"Experienced {position} with {years_exp} years of experience in {domain_area}. Skilled at creating intuitive designs and impactful visual experiences. Delivered successful design projects at {last_company} using expertise in {skills}."
+},
+
+{
+"id":13,
+"domain":"Design",
+"tier":"senior",
+"text":"Senior {position} with extensive experience designing user focused digital experiences. Recognized for combining creativity with strategic thinking. Led innovative design initiatives at {last_company} while mentoring design teams."
+},
+
+{
+"id":14,
+"domain":"Design",
+"tier":"experienced",
+"text":"Detail oriented {position} with strong expertise in {skills}. Passionate about transforming ideas into compelling visual solutions. Successfully contributed to creative design initiatives at {last_company}."
+},
+
+{
+"id":15,
+"domain":"Finance",
+"tier":"fresher",
+"text":"Motivated {position} with strong analytical and financial reasoning skills. Passionate about supporting financial planning and data analysis. Developed financial knowledge through academic experience at {institution}."
+},
+
+{
+"id":16,
+"domain":"Finance",
+"tier":"early",
+"text":"Early career {position} with experience in financial analysis and reporting. Demonstrates strong attention to detail and data interpretation skills. Contributed to financial operations at {last_company} while building expertise in {skills}."
+},
+
+{
+"id":17,
+"domain":"Finance",
+"tier":"experienced",
+"text":"Analytical {position} with {years_exp} years of experience in {domain_area}. Skilled in financial modeling, analysis, and reporting. Supported strategic financial decisions at {last_company} leveraging expertise in {skills}."
+},
+
+{
+"id":18,
+"domain":"Finance",
+"tier":"senior",
+"text":"Senior {position} with extensive experience managing financial strategy and performance. Proven ability to drive accurate forecasting and financial planning. Delivered impactful financial insights at {last_company}."
+},
+
+{
+"id":19,
+"domain":"Finance",
+"tier":"experienced",
+"text":"Results driven {position} with expertise in financial analysis and business insights. Known for delivering data driven recommendations that support strategic decisions. Contributed to financial initiatives at {last_company}."
+},
+
+{
+"id":20,
+"domain":"Healthcare",
+"tier":"fresher",
+"text":"Compassionate {position} with strong interest in delivering quality healthcare support. Demonstrates dedication to patient care and clinical excellence. Built healthcare knowledge through academic training at {institution}."
+},
+
+{
+"id":21,
+"domain":"Healthcare",
+"tier":"early",
+"text":"Early career {position} with experience supporting healthcare services and patient care. Known for strong attention to detail and commitment to safety standards. Contributed to healthcare operations at {last_company}."
+},
+
+{
+"id":22,
+"domain":"Healthcare",
+"tier":"experienced",
+"text":"Experienced {position} with {years_exp} years of experience delivering patient focused care. Skilled in clinical practices and healthcare coordination. Provided valuable healthcare services at {last_company}."
+},
+
+{
+"id":23,
+"domain":"Healthcare",
+"tier":"senior",
+"text":"Senior {position} with extensive experience managing healthcare operations and patient care programs. Recognized for improving clinical outcomes and healthcare processes. Led healthcare initiatives at {last_company}."
+},
+
+{
+"id":24,
+"domain":"Healthcare",
+"tier":"experienced",
+"text":"Dedicated {position} with strong expertise in healthcare services and patient care management. Known for delivering compassionate and effective healthcare solutions. Contributed to healthcare excellence at {last_company}."
+},
+
+{
+"id":25,
+"domain":"Legal",
+"tier":"fresher",
+"text":"Motivated {position} with strong foundations in legal principles and research. Passionate about supporting legal processes and ensuring compliance. Developed legal expertise through academic work at {institution}."
+},
+
+{
+"id":26,
+"domain":"Legal",
+"tier":"early",
+"text":"Early career {position} with experience assisting in legal research and documentation. Known for strong analytical thinking and attention to detail. Supported legal operations at {last_company}."
+},
+
+{
+"id":27,
+"domain":"Legal",
+"tier":"experienced",
+"text":"Experienced {position} with {years_exp} years of experience in legal advisory and compliance. Skilled in legal analysis and case preparation. Successfully supported legal initiatives at {last_company}."
+},
+
+{
+"id":28,
+"domain":"Legal",
+"tier":"senior",
+"text":"Senior {position} with extensive expertise in legal strategy and regulatory compliance. Recognized for delivering reliable legal insights and guidance. Led key legal initiatives at {last_company}."
+},
+
+{
+"id":29,
+"domain":"Legal",
+"tier":"experienced",
+"text":"Detail oriented {position} with strong expertise in legal research and compliance. Demonstrates ability to interpret regulations and support legal processes. Contributed to legal operations at {last_company}."
+},
+
+{
+"id":30,
+"domain":"Education",
+"tier":"fresher",
+"text":"Passionate {position} with strong commitment to education and student development. Demonstrates effective communication and instructional abilities. Developed teaching expertise through academic training at {institution}."
+},
+
+{
+"id":31,
+"domain":"Education",
+"tier":"early",
+"text":"Early career {position} focused on delivering engaging learning experiences. Known for strong classroom management and communication skills. Contributed to educational initiatives at {last_company}."
+},
+
+{
+"id":32,
+"domain":"Education",
+"tier":"experienced",
+"text":"Experienced {position} with {years_exp} years of teaching and curriculum development experience. Skilled at fostering engaging learning environments. Delivered effective education programs at {last_company}."
+},
+
+{
+"id":33,
+"domain":"Education",
+"tier":"senior",
+"text":"Senior {position} with extensive experience in academic leadership and educational program development. Recognized for improving learning outcomes and curriculum quality. Led academic initiatives at {last_company}."
+},
+
+{
+"id":34,
+"domain":"Education",
+"tier":"experienced",
+"text":"Dedicated {position} with strong experience in education and student mentoring. Passionate about helping learners achieve academic success. Contributed to educational excellence at {last_company}."
+},
+
+{
+"id":35,
+"domain":"IT",
+"tier":"early",
+"text":"Motivated {position} with hands on experience in {skills}. Known for solving technical problems and delivering reliable software solutions. Contributed to development work at {last_company}."
+},
+
+{
+"id":36,
+"domain":"IT",
+"tier":"experienced",
+"text":"Experienced {position} skilled in {skills} with a strong track record of delivering efficient technology solutions. Played an important role in development initiatives at {last_company}."
+},
+
+{
+"id":37,
+"domain":"Management",
+"tier":"early",
+"text":"Motivated {position} with strong planning and coordination abilities. Known for supporting operational efficiency and team productivity. Contributed to business initiatives at {last_company}."
+},
+
+{
+"id":38,
+"domain":"Design",
+"tier":"fresher",
+"text":"Creative {position} passionate about visual storytelling and user centered design. Developed design capabilities through academic projects at {institution} while strengthening skills in {skills}."
+},
+
+{
+"id":39,
+"domain":"Finance",
+"tier":"early",
+"text":"Detail oriented {position} with experience in financial analysis and reporting. Skilled at interpreting financial data and supporting decision making. Contributed to finance operations at {last_company}."
+},
+
+{
+"id":40,
+"domain":"Healthcare",
+"tier":"early",
+"text":"Committed {position} focused on delivering effective healthcare support. Demonstrates strong communication skills and attention to patient needs. Contributed to healthcare services at {last_company}."
+},
+
+{
+"id":41,
+"domain":"Legal",
+"tier":"early",
+"text":"Analytical {position} with strong legal research and documentation skills. Demonstrates attention to detail and commitment to legal accuracy. Supported legal initiatives at {last_company}."
+},
+
+{
+"id":42,
+"domain":"Education",
+"tier":"early",
+"text":"Motivated {position} with strong communication and teaching abilities. Passionate about supporting student development and learning outcomes. Contributed to academic activities at {last_company}."
+},
+
+{
+"id":43,
+"domain":"IT",
+"tier":"fresher",
+"text":"Enthusiastic {position} with a strong interest in software development and technology innovation. Demonstrates solid understanding of {skills} and continuous learning. Built technical knowledge through academic work at {institution}."
+},
+
+{
+"id":44,
+"domain":"Management",
+"tier":"fresher",
+"text":"Aspiring {position} with strong leadership potential and communication skills. Passionate about supporting organizational goals and team collaboration. Developed management knowledge at {institution}."
+},
+
+{
+"id":45,
+"domain":"Design",
+"tier":"early",
+"text":"Creative {position} focused on developing engaging visual experiences. Skilled in {skills} and passionate about delivering impactful design solutions. Contributed to creative initiatives at {last_company}."
+},
+
+{
+"id":46,
+"domain":"Finance",
+"tier":"experienced",
+"text":"Professional {position} with {years_exp} years of experience supporting financial planning and analysis. Skilled at interpreting financial data and delivering insights. Contributed to financial strategy at {last_company}."
+},
+
+{
+"id":47,
+"domain":"Healthcare",
+"tier":"experienced",
+"text":"Experienced {position} committed to improving healthcare outcomes and patient care quality. Skilled in healthcare practices and coordination. Delivered valuable healthcare services at {last_company}."
+},
+
+{
+"id":48,
+"domain":"Legal",
+"tier":"experienced",
+"text":"Professional {position} with strong experience in legal compliance and documentation. Demonstrates analytical thinking and regulatory knowledge. Supported legal operations at {last_company}."
+},
+
+{
+"id":49,
+"domain":"Education",
+"tier":"experienced",
+"text":"Experienced {position} dedicated to improving educational programs and student engagement. Skilled in curriculum development and teaching methodologies. Contributed to academic success at {last_company}."
+},
+
+{
+"id":50,
+"domain":"IT",
+"tier":"early",
+"text":"Motivated {position} with {years_experience} years of experience working with {skills}. Built strong technical foundations through projects and academic work at {institution}."
+},
+
+{
+"id": 51,
+"domain": "IT",
+"tier": "early",
+"text": "Dedicated {position} with expertise in {skills} and {years_experience} years of practical experience. Built strong analytical and technical capabilities through projects and academic work at {institution}."
+},
+
+{
+"id": 101,
+"domain": "IT",
+"tier": "early",
+"text": "Results-driven {position} with {years_experience} years of experience delivering efficient solutions. Proficient in {skills}, with hands-on technical experience gained through academic and project work at {institution}."
+}
+
+  ]
+}
